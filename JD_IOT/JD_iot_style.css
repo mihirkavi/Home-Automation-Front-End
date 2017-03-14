@@ -1,0 +1,37 @@
+header {
+	font-family: 'Titillium Web', sans-serif;
+}
+#brandname {
+	font-family: 'Roboto', sans-serif;
+}
+.jumbotron {
+	margin-top: 50px;
+	background-image: url("http://i.imgur.com/cKcxVdr.jpg");
+	display: flex;
+	align-items: center;
+	height: 350px;
+	background-size: cover;
+}
+#main {
+	
+	
+}
+.container .col-sm-12 {
+	font-family: 'Titillium Web', sans-serif;
+	
+}
+#contents .col-sm-6 {
+	height: 100px;
+	background-color:#b6cddd;
+	border-radius: 10px;
+	text-align: center;
+	padding: 10px;
+	margin: 2px 5px 5px 5px;
+}
+#contents {
+	font-family: 'Quicksand', sans-serif;
+}
+footer {
+	font-family: 'Quicksand', sans-serif;
+	margin-top: 1000px;
+}
